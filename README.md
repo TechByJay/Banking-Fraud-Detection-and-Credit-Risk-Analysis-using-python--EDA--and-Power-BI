@@ -175,6 +175,8 @@ Interactive visualizations were developed using Power BI to enable business user
 
 The project includes a fully interactive Power BI dashboard featuring:
 
+![Dashboard](https://github.com/TechByJay/Banking-Fraud-Detection-and-Credit-Risk-Analysis-using-python--EDA--and-Power-BI/blob/master/Dashboard_banking_Fraud.png)
+
 
 ### KPI Cards
 - Total Customers
@@ -208,7 +210,7 @@ The dashboard provides actionable insights for fraud monitoring and credit risk 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/banking-fraud-analysis.git
+https://github.com/TechByJay/Banking-Fraud-Detection-and-Credit-Risk-Analysis-using-python--EDA--and-Power-BI
 ```
 
 ### Install Required Libraries
